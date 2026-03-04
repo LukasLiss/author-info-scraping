@@ -1,0 +1,7 @@
+pandas
+requests
+python-dotenv
+google-search-results
+matplotlib
+jupyter
+ipykernel
